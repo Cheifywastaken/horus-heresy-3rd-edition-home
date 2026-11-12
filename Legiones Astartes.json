@@ -56466,6 +56466,15 @@
                 "type": "selectionEntry",
                 "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 5}],
                 "modifiers": [{"field": "name", "type": "append", "value": "with in-built ranged weapon"}]
+              },
+              {
+                "name": "Gravis Banestrike Bolt Cannon",
+                "id": "4b70-f84b-7072-9edf",
+                "hidden": false,
+                "import": true,
+                "targetId": "95e7-2984-7317-8c69",
+                "type": "selectionEntry",
+                "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 10}]
               }
             ],
             "modifiers": [
