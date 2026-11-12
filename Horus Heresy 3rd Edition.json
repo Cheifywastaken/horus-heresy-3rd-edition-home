@@ -59999,7 +59999,7 @@
                   {
                     "field": "hidden",
                     "type": "set",
-                    "value": true,
+                    "value": false,
                     "conditionGroups": [
                       {
                         "type": "and",
@@ -61320,7 +61320,7 @@
                   {
                     "field": "tracked",
                     "type": "set",
-                    "value": false,
+                    "value": true,
                     "conditionGroups": [
                       {
                         "type": "or",
@@ -61471,7 +61471,7 @@
                   {
                     "field": "hidden",
                     "type": "set",
-                    "value": true,
+                    "value": false,
                     "conditions": [{"childId": "5da8-2289-4e20-649f", "field": "selections", "includeChildSelections": true, "scope": "force", "shared": true, "type": "equalTo", "value": 0}]
                   }
                 ]
