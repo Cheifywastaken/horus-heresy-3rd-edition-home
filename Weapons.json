@@ -14523,6 +14523,76 @@
             ]
           }
         ]
+      },
+      {
+        "name": "Twin Banestrike Bolt Cannon",
+        "id": "f475-da93-de6b-3194",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {
+            "name": "Breaching (X)",
+            "id": "51b6-d6f0-81e4-5e2c",
+            "hidden": false,
+            "targetId": "b094-0b64-eb57-aed6",
+            "type": "rule",
+            "modifiers": [{"field": "name", "type": "set", "value": "Breaching (6+)"}]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Twin Banestrike Bolt Cannon",
+            "id": "2a70-09b1-2867-5dba",
+            "hidden": false,
+            "typeId": "c591-09ed-3e6f-eb2b",
+            "typeName": "Ranged Weapon",
+            "characteristics": [
+              {"name": "R", "$text": "24", "typeId": "cdb0-8654-6840-1037"},
+              {"name": "FP", "$text": "6", "typeId": "5037-1f27-1790-e355"},
+              {"name": "RS", "$text": "6", "typeId": "b9da-ee13-79f9-fa63"},
+              {"name": "AP", "$text": "4", "typeId": "7a23-0248-2b94-5951"},
+              {"name": "D", "$text": "2", "typeId": "88c3-1ca5-7dc1-f291"},
+              {"name": "Special Rules", "$text": "Breaching (6+)", "typeId": "5aad-137a-8ee2-63fd"},
+              {"name": "Traits", "$text": "Bolt", "typeId": "1247-79d2-6cc1-8a03"}
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Quad Banestrike Bolt Cannon",
+        "id": "4cbb-dff3-1b3a-48e4",
+        "hidden": false,
+        "import": true,
+        "type": "upgrade",
+        "infoLinks": [
+          {
+            "name": "Breaching (X)",
+            "id": "d59c-2b85-3afc-4cc1",
+            "hidden": false,
+            "targetId": "b094-0b64-eb57-aed6",
+            "type": "rule",
+            "modifiers": [{"field": "name", "type": "set", "value": "Breaching (4+)"}]
+          }
+        ],
+        "profiles": [
+          {
+            "name": "Quad Banestrike Bolt Cannon",
+            "id": "1091-295f-3d36-b71b",
+            "hidden": false,
+            "typeId": "c591-09ed-3e6f-eb2b",
+            "typeName": "Ranged Weapon",
+            "characteristics": [
+              {"name": "R", "$text": "24", "typeId": "cdb0-8654-6840-1037"},
+              {"name": "FP", "$text": "8", "typeId": "5037-1f27-1790-e355"},
+              {"name": "RS", "$text": "6", "typeId": "b9da-ee13-79f9-fa63"},
+              {"name": "AP", "$text": "4", "typeId": "7a23-0248-2b94-5951"},
+              {"name": "D", "$text": "2", "typeId": "88c3-1ca5-7dc1-f291"},
+              {"name": "Special Rules", "$text": "Breaching (4+)", "typeId": "5aad-137a-8ee2-63fd"},
+              {"name": "Traits", "$text": "Bolt", "typeId": "1247-79d2-6cc1-8a03"}
+            ]
+          }
+        ]
       }
     ],
     "sharedSelectionEntryGroups": [

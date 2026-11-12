@@ -56576,6 +56576,15 @@
                 "targetId": "b1e1-e164-5877-6734",
                 "type": "selectionEntry",
                 "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 15}]
+              },
+              {
+                "name": "Banestrike combi-bolter",
+                "id": "b090-55b9-041b-1d74",
+                "hidden": false,
+                "import": true,
+                "targetId": "08db-6d95-f0be-cfe0",
+                "type": "selectionEntry",
+                "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 10}]
               }
             ],
             "modifiers": [
@@ -56829,6 +56838,15 @@
                 "type": "selectionEntry",
                 "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 5}],
                 "modifiers": [{"field": "name", "type": "append", "value": "with in-built ranged weapon"}]
+              },
+              {
+                "name": "Gravis Banestrike Bolt Cannon",
+                "id": "960b-2d77-c66e-32b6",
+                "hidden": false,
+                "import": true,
+                "targetId": "95e7-2984-7317-8c69",
+                "type": "selectionEntry",
+                "costs": [{"name": "Point(s)", "typeId": "9893-c379-920b-8982", "value": 10}]
               }
             ],
             "modifiers": [
