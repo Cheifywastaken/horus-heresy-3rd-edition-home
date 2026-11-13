@@ -56469,8 +56469,8 @@
               },
               {
                 "name": "Gravis Banestrike Bolt Cannon",
-                "id": "4b70-f84b-7072-9edf",
-                "hidden": false,
+                "id": "275f-c7ab-b986-5938",
+                "hidden": true,
                 "import": true,
                 "targetId": "95e7-2984-7317-8c69",
                 "type": "selectionEntry",
